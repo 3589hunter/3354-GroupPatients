@@ -6,7 +6,7 @@ from django.test import Client
 from django.urls import reverse
 from unittest.mock import patch
 
-                                                                        #Create your tests here.
+    #Create your tests here.
 class testClass:
     def test_my_function(mocker):
     # Create a mock object for the class containing is_valid()
